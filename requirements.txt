@@ -5,3 +5,4 @@ torch
 numba
 pytest
 setuptools
+ninja
