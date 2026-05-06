@@ -6,3 +6,5 @@ numba
 pytest
 setuptools
 ninja
+soundfile
+sounddevice
