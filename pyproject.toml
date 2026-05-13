@@ -14,7 +14,7 @@ requires = ["setuptools"] # REQUIRED if [build-system] table is used
 build-backend = "setuptools.build_meta" # If not defined, then legacy behavior can happen.
 
 [project]
-name = "fast_partitioned_convolution"
+name = "live_auralization_demo_LoV"
 
 # Versions should comply with PEP 440:
 # https://www.python.org/dev/peps/pep-0440/
@@ -40,6 +40,7 @@ requires-python = ">=3.9"
 
 maintainers = [
   { name = "Hannes Rosseel", email = "hannes.rosseel@esat.kuleuven.be" },
+  { name = "Valerio Lorenzoni", email = "valerio.lorenzoni@esat.kuleuven.be" }
 ]
 
 # Classifiers help users find your project by categorizing it.
